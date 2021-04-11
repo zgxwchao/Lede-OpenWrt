@@ -29,6 +29,15 @@ git clone -b master https://github.com/vernesong/OpenClash.git package/luci-app-
 git clone https://github.com/frainzy1477/luci-app-clash package/luci-app-clash  #clash出国软件
 git clone https://github.com/tty228/luci-app-serverchan package/luci-app-serverchan  #微信推送
 git clone -b lede https://github.com/pymumu/luci-app-smartdns.git package/luci-app-smartdns  #smartdns DNS加速
+# git clone https://github.com/fw876/helloworld package/luci-app-ssr-plus
+git clone https://github.com/vernesong/OpenClash package/luci-app-openclash
+git clone https://github.com/jerrykuku/luci-app-vssr package/luci-app-vssr
+git clone https://github.com/xiaorouji/openwrt-passwall package/luci-app-passwall
+git clone https://github.com/destan19/OpenAppFilter package/luci-app-oaf
+# git clone https://github.com/frainzy1477/luci-app-clash package/luci-app-clash
+git clone https://github.com/frainzy1477/luci-app-clash.git package/lean/luci-app-clash
+svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-theme-opentomato package/luci-theme-opentomato
+svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-theme-opentomcat package/luci-theme-opentomcat
 
 
 #passwall出国软件
